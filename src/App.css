@@ -1,3 +1,21 @@
 .App {
   text-align: center;
 }
+
+
+
+.pokemon:active {
+  box-shadow: none;
+}
+
+.pokemon {
+  padding: 20px;
+  box-shadow: 3px 3px 3px black;
+}
+
+.poke-btn {
+  display: none;
+  padding: 10px 20px;
+  border: 2px solid blue;
+  box-shadow: 2px 2px 2px black;
+}
