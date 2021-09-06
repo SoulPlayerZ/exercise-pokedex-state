@@ -14,7 +14,7 @@
 }
 
 .poke-btn {
-  
+  display: none;
   padding: 10px 20px;
   border: 2px solid blue;
   box-shadow: 2px 2px 2px black;
